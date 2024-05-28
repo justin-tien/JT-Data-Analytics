@@ -1,1 +1,2 @@
-compare the performance of several machine learning models in detecting fake news. 
+Report folder: Final research report, including data, methods, and results.
+
