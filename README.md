@@ -8,3 +8,6 @@ SQL Project: Include my different SQL projects, from basic data cleaning to adva
 
 
 Excel Project: Includes data cleaning, data visualization, and dashboard creation in Excel.
+
+
+Tableau Project: A comprehensive collection of data visualization and dashboard projects utilizing Tableau.
