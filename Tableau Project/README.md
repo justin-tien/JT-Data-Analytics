@@ -1,1 +1,1 @@
-Airbnb Full Project: https://public.tableau.com/app/profile/justin.tien6117/viz/AirbnbFullProject_17189427984450/Dashboard1?publish=yes
+Airbnb Comprehensive Project: In-depth analysis of Airbnb listings in Seattle to derive valuable insights. https://public.tableau.com/app/profile/justin.tien6117/viz/AirbnbFullProject_17189427984450/Dashboard1?publish=yes
